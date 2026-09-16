@@ -1,0 +1,23 @@
+{
+  "repo": "magix-video-deluxe-2026-full",
+  "product": "MAGIX Video Deluxe 2026 Full",
+  "kind": "video",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "video-editing",
+  "topics": [
+    "magix-video-deluxe",
+    "home-video-editor",
+    "timeline-editing-windows",
+    "event-film-tools",
+    "magix-2026",
+    "disc-menu-templates",
+    "how-to-install-magix-video",
+    "magix-desktop-package",
+    "video-deluxe-suite",
+    "family-movie-workshop"
+  ],
+  "site": "toolix.me"
+}
